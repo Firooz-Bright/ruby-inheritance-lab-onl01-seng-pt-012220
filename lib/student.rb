@@ -8,8 +8,8 @@ class Student <  User
    KNOWLEDGE << string 
  end 
 
- def k
-   return knowledge
+ def knowledge
+   return KNOWLEDGE
  end 
  
 end
