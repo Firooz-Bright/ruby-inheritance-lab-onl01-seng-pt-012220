@@ -9,7 +9,7 @@ class Student <  User
  end 
 
  def knowledge
-   return KNOWLEDGE
+   return knowledge
  end 
  
 end
