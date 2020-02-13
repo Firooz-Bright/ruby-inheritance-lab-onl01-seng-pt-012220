@@ -9,7 +9,7 @@ class Student <  User
  end 
 
  def knowledge
-   return Knowledge
+   return @Knowledge
  end 
  
 end
